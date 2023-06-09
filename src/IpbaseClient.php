@@ -7,7 +7,7 @@ use GuzzleHttp\Exception\GuzzleException;
 use GuzzleHttp\Client;
 
 /**
- * Exposes the CurrencyAPI library to client code.
+ * Exposes the Ipbase library to client code.
  */
 class IpbaseClient
 {
